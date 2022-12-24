@@ -16,3 +16,4 @@ altair_saver
 jinja2
 selenium
 geopandas
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
