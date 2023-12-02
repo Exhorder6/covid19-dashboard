@@ -24,7 +24,7 @@ contextvars==2.4
 csvs-to-sqlite==1.0
 cycler==0.10.0
 datasette==0.39
-dateparser==0.7.4
+dateparser==1.1.6
 decorator==4.4.2
 defusedxml==0.6.0
 descartes==1.1.0
