@@ -16,3 +16,4 @@ altair_saver
 jinja2
 selenium
 geopandas
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
