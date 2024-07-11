@@ -129,4 +129,4 @@ websockets==8.1
 widgetsnbextension==3.5.1
 xarray==0.15.0
 xlrd==1.2.0
-zipp==3.1.0
+zipp==3.19.1
