@@ -16,3 +16,4 @@ altair_saver
 jinja2
 selenium
 geopandas
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
